@@ -11,14 +11,10 @@
             "id": "e0cd002f13eeae8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30 - Cisco/Packet Tracer/SNMP - Cisco Packet Tracer Lab.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SNMP - Cisco Packet Tracer Lab"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -41,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -185,26 +183,42 @@
   },
   "active": "e0cd002f13eeae8e",
   "lastOpenFiles": [
-    "30 - Cisco/Packet Tracer/Syslog - Cisco Packet Tracer Lab.md",
-    "30 - Cisco/Packet Tracer/NTP - Cisco Packet Tracer Lab.md",
-    "20 - Protocols/Syslog/Syslog - Overview.md",
-    "20 - Protocols/NTP/NTP - Overview.md",
-    "20 - Protocols/SNMP/SNMP - Overview.md",
-    "10 - Fundamentals/Network Monitoring.md",
-    "20 - Protocols/Syslog",
-    "20 - Protocols/NTP",
-    "00 - Home/Network Notes Home.md",
-    "90 - Templates/Networking Note Template.md",
-    "90 - Templates",
-    "30 - Cisco/Packet Tracer/SNMP - Cisco Packet Tracer Lab.md",
-    "30 - Cisco/Packet Tracer",
-    "30 - Cisco",
-    "20 - Protocols/SNMP",
-    "20 - Protocols",
-    "10 - Fundamentals",
-    "00 - Home",
-    "Untitled",
-    "Welcome.md",
+    "06 - Routing Protocols/OSPF Router ID.md",
+    "06 - Routing Protocols/EIGRP Troubleshooting.md",
+    "06 - Routing Protocols/EIGRP Configuration.md",
+    "06 - Routing Protocols/EIGRP.md",
+    "15 - Packet Tracer Labs/Lab 13 - NTP Server.md",
+    "20 - Advanced Networking/Index - Advanced Networking.md",
+    "19 - Teaching Materials/Index - Teaching Materials.md",
+    "18 - Viva and Revision Questions/Index - Viva and Revision Questions.md",
+    "17 - Commands Cheat Sheets/Index - Commands Cheat Sheets.md",
+    "16 - Configuration Templates/Index - Configuration Templates.md",
+    "15 - Packet Tracer Labs/Index - Packet Tracer Labs.md",
+    "14 - Troubleshooting/Index - Troubleshooting.md",
+    "13 - IPv6/Index - IPv6.md",
+    "12 - Wireless Networking/Index - Wireless Networking.md",
+    "11 - WAN and VPN/Index - WAN and VPN.md",
+    "10 - Network Management and Monitoring/Index - Network Management and Monitoring.md",
+    "09 - Network Security/Index - Network Security.md",
+    "08 - Redundancy and High Availability/Index - Redundancy and High Availability.md",
+    "07 - DHCP and Network Services/Index - DHCP and Network Services.md",
+    "06 - Routing Protocols/Index - Routing Protocols.md",
+    "05 - Inter-VLAN Routing/Index - Inter-VLAN Routing.md",
+    "04 - VLAN and Trunking/Index - VLAN and Trunking.md",
+    "03 - Switching/Index - Switching.md",
+    "02 - IP Addressing and Subnetting/Index - IP Addressing and Subnetting.md",
+    "01 - Networking Fundamentals/Index - Networking Fundamentals.md",
+    "00 - Dashboard/Index - Dashboard.md",
+    "20 - Advanced Networking",
+    "19 - Teaching Materials",
+    "18 - Viva and Revision Questions",
+    "17 - Commands Cheat Sheets",
+    "16 - Configuration Templates",
+    "15 - Packet Tracer Labs",
+    "14 - Troubleshooting",
+    "13 - IPv6",
+    "12 - Wireless Networking",
+    "11 - WAN and VPN",
     "Untitled.canvas"
   ]
 }
