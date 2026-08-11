@@ -4,7 +4,7 @@ category: "DHCP and Network Services"
 difficulty: "Beginner"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[NTP]]"
+  - "[[NTP - Network Time Protocol]]"
   - "[[NTP Not Synchronising]]"
 tags:
   - networking
@@ -168,5 +168,5 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 
 ## 23. Related Notes
 
-- [[NTP]]
+- [[NTP - Network Time Protocol]]
 - [[NTP Not Synchronising]]

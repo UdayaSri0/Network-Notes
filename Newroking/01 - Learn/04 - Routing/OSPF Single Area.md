@@ -4,7 +4,7 @@ category: "Routing Protocols"
 difficulty: "Intermediate"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[OSPF]]"
+  - "[[OSPF - Open Shortest Path First]]"
   - "[[OSPF Router ID]]"
 tags:
   - networking
@@ -186,5 +186,5 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 
 ## 23. Related Notes
 
-- [[OSPF]]
+- [[OSPF - Open Shortest Path First]]
 - [[OSPF Router ID]]

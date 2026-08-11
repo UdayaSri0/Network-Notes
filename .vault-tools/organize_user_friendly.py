@@ -1,6 +1,8 @@
 from pathlib import Path
 import re
 
+from expand_protocol_names import NOTE_RENAMES
+
 
 ROOT = Path(__file__).resolve().parents[1]
 VAULT = ROOT / "Newroking"
@@ -29,9 +31,11 @@ def link_list(items: list[tuple[str, str] | str]) -> str:
     lines = []
     for item in items:
         if isinstance(item, tuple):
-            lines.append(f"- [[{item[0]}|{item[1]}]]")
+            target = NOTE_RENAMES.get(item[0], item[0])
+            lines.append(f"- [[{target}|{item[1]}]]")
         else:
-            lines.append(f"- [[{item}]]")
+            target = NOTE_RENAMES.get(item, item)
+            lines.append(f"- [[{target}]]")
     return "\n".join(lines)
 
 
@@ -195,11 +199,11 @@ LEARN_AREAS = {
         "Fundamentals Guide", "Networking Fundamentals",
         "Build the mental model needed for every later subject.",
         ["OSI Model", "TCP-IP Model", "Ethernet", "Ethernet Frame", "MAC Addressing", "ARP", "ICMP", "TCP", "UDP", "Common Network Ports", "Cisco Router Basic Configuration", "Cisco Switch Basic Configuration"]),
-    "01 - Learn/02 - IP Addressing and Subnetting/Addressing and Subnetting Guide.md": (
+    "01 - Learn/02 - Internet Protocol (IP) Addressing and Subnetting/Addressing and Subnetting Guide.md": (
         "Addressing and Subnetting Guide", "IP Addressing and Subnetting",
         "Learn to design and validate IPv4 networks before configuring devices.",
         ["IPv4 Addressing", "Subnet Mask", "Default Gateway", "Network Address", "Broadcast Address", "CIDR", "Subnetting Basics", "Subnetting Step by Step", "VLSM", "Subnetting Practice Questions"]),
-    "01 - Learn/03 - Switching and VLANs/Switching and VLANs Guide.md": (
+    "01 - Learn/03 - Switching and Virtual Local Area Networks (VLANs)/Switching and VLANs Guide.md": (
         "Switching and VLANs Guide", "Switching and VLANs",
         "Move from Ethernet switching through VLANs, trunks, loop prevention, link aggregation, and inter-VLAN routing.",
         ["VLAN", "VLAN Configuration", "802.1Q Trunking", "Trunk Configuration", "STP", "RSTP", "PortFast", "BPDU Guard", "EtherChannel", "LACP", "Router on a Stick", "Layer 3 Switch Inter-VLAN Routing"]),
@@ -223,11 +227,11 @@ LEARN_AREAS = {
         "Monitoring and Management Guide", "Monitoring and Management",
         "Collect time, state, events, neighbors, and packet evidence for network operations.",
         ["Network Monitoring", "SNMP", "SNMPv2c", "SNMPv3", "Cisco SNMP Configuration", "Syslog", "Cisco Syslog Configuration", "Syslog Severity Levels", "Wireshark", "Packet Capture", "CDP", "LLDP"]),
-    "01 - Learn/09 - WAN VPN and Wireless/WAN VPN and Wireless Guide.md": (
+    "01 - Learn/09 - Wide Area Networks (WAN), Virtual Private Networks (VPN), and Wireless/WAN VPN and Wireless Guide.md": (
         "WAN VPN and Wireless Guide", "WAN VPN and Wireless",
         "Connect remote networks and users across serial, tunnel, encrypted, and wireless links.",
         ["VPN", "Site-to-Site VPN", "Remote Access VPN", "IPsec", "GRE Tunnel", "GRE over IPsec", "PPP", "PPP CHAP", "HDLC", "Wireless Networking", "Wi-Fi Standards", "WPA2", "WPA3"]),
-    "01 - Learn/10 - IPv6/IPv6 Guide.md": (
+    "01 - Learn/10 - Internet Protocol Version 6 (IPv6)/IPv6 Guide.md": (
         "IPv6 Guide", "IPv6",
         "Learn IPv6 addressing, neighbor discovery, automatic configuration, routing, and troubleshooting.",
         ["IPv6", "IPv6 Address Types", "IPv6 Static Routing", "IPv6 SLAAC", "DHCPv6", "IPv6 OSPFv3", "IPv6 Troubleshooting"]),

@@ -4,7 +4,7 @@ category: "Packet Tracer Labs"
 difficulty: "Intermediate"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[ACL]]"
+  - "[[ACL - Access Control List]]"
   - "[[Extended ACL]]"
 tags:
   - networking
@@ -128,6 +128,6 @@ Use the related configuration notes and templates to build a validated reference
 
 ## 14. Related Notes
 
-- [[ACL]]
+- [[ACL - Access Control List]]
 - [[Extended ACL]]
 - [[Networking Dashboard]]

@@ -27,10 +27,10 @@ tags:
 created: 2026-08-11
 updated: 2026-08-11
 prerequisites:
-  - "[[STP]]"
+  - "[[STP - Spanning Tree Protocol]]"
 related:
   - "[[Network Monitoring]]"
-  - "[[HSRP]]"
+  - "[[HSRP - Hot Standby Router Protocol]]"
 category: "Packet Tracer Labs"
 packet_tracer_supported: "Yes"
 related_protocols: []
@@ -60,7 +60,7 @@ After this lab, you should be able to:
 - Basic Cisco IOS switch configuration.
 - VLAN and trunk fundamentals.
 - IPv4 addressing and ping testing.
-- Familiarity with [[STP|STP concepts]].
+- Familiarity with [[STP - Spanning Tree Protocol|STP concepts]].
 
 ## 3. Topology
 
@@ -641,5 +641,5 @@ copy running-config startup-config
 
 ---
 
-**Parent:** [[STP|Spanning Tree Protocol Overview]]  
+**Parent:** [[STP - Spanning Tree Protocol|Spanning Tree Protocol Overview]]
 **Home:** [[Networking Dashboard]]

@@ -6,12 +6,12 @@ packet_tracer_supported: "Yes"
 related_protocols:
   - "[[Ethernet]]"
   - "[[MAC Addressing]]"
-  - "[[VLAN]]"
+  - "[[VLAN - Virtual Local Area Network]]"
   - "[[VLAN Configuration]]"
   - "[[802.1Q Trunking]]"
   - "[[Trunk Configuration]]"
-  - "[[STP]]"
-  - "[[RSTP]]"
+  - "[[STP - Spanning Tree Protocol]]"
+  - "[[RSTP - Rapid Spanning Tree Protocol]]"
 tags:
   - networking
   - moc
@@ -31,16 +31,16 @@ updated: "2026-08-11"
 
 - [[Ethernet]]
 - [[MAC Addressing]]
-- [[VLAN]]
+- [[VLAN - Virtual Local Area Network]]
 - [[VLAN Configuration]]
 - [[802.1Q Trunking]]
 - [[Trunk Configuration]]
-- [[STP]]
-- [[RSTP]]
+- [[STP - Spanning Tree Protocol]]
+- [[RSTP - Rapid Spanning Tree Protocol]]
 - [[PortFast]]
 - [[BPDU Guard]]
 - [[EtherChannel]]
-- [[LACP]]
+- [[LACP - Link Aggregation Control Protocol]]
 - [[Router on a Stick]]
 - [[Layer 3 Switch Inter-VLAN Routing]]
 

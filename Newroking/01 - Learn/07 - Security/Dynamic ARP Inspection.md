@@ -5,7 +5,7 @@ difficulty: "Beginner"
 packet_tracer_supported: "Yes"
 related_protocols:
   - "[[DHCP Snooping]]"
-  - "[[ARP]]"
+  - "[[ARP - Address Resolution Protocol]]"
 tags:
   - networking
   - teaching
@@ -184,4 +184,4 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 ## 23. Related Notes
 
 - [[DHCP Snooping]]
-- [[ARP]]
+- [[ARP - Address Resolution Protocol]]

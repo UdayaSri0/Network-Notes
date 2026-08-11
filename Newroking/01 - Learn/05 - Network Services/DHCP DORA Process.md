@@ -4,7 +4,7 @@ category: "DHCP and Network Services"
 difficulty: "Beginner"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[DHCP]]"
+  - "[[DHCP - Dynamic Host Configuration Protocol]]"
   - "[[DHCP Relay]]"
 tags:
   - networking
@@ -166,5 +166,5 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 
 ## 23. Related Notes
 
-- [[DHCP]]
+- [[DHCP - Dynamic Host Configuration Protocol]]
 - [[DHCP Relay]]

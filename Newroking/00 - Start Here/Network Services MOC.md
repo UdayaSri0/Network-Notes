@@ -4,14 +4,14 @@ category: "Dashboard"
 difficulty: "Mixed"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[DHCP]]"
+  - "[[DHCP - Dynamic Host Configuration Protocol]]"
   - "[[Dedicated DHCP Server]]"
   - "[[DHCP Relay]]"
-  - "[[DNS]]"
-  - "[[NTP]]"
-  - "[[FTP]]"
-  - "[[TFTP]]"
-  - "[[HTTP]]"
+  - "[[DNS - Domain Name System]]"
+  - "[[NTP - Network Time Protocol]]"
+  - "[[FTP - File Transfer Protocol]]"
+  - "[[TFTP - Trivial File Transfer Protocol]]"
+  - "[[HTTP - Hypertext Transfer Protocol]]"
 tags:
   - networking
   - moc
@@ -29,16 +29,16 @@ updated: "2026-08-11"
 
 ## Teaching Sequence
 
-- [[DHCP]]
+- [[DHCP - Dynamic Host Configuration Protocol]]
 - [[Dedicated DHCP Server]]
 - [[DHCP Relay]]
-- [[DNS]]
-- [[NTP]]
-- [[FTP]]
-- [[TFTP]]
-- [[HTTP]]
-- [[HTTPS]]
-- [[SNMP]]
+- [[DNS - Domain Name System]]
+- [[NTP - Network Time Protocol]]
+- [[FTP - File Transfer Protocol]]
+- [[TFTP - Trivial File Transfer Protocol]]
+- [[HTTP - Hypertext Transfer Protocol]]
+- [[HTTPS - Hypertext Transfer Protocol Secure]]
+- [[SNMP - Simple Network Management Protocol]]
 - [[Syslog]]
 - [[Network Monitoring]]
 

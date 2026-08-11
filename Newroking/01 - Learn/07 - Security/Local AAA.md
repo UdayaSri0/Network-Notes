@@ -4,7 +4,7 @@ category: "Network Security"
 difficulty: "Intermediate"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[AAA]]"
+  - "[[AAA - Authentication, Authorization, and Accounting]]"
   - "[[Cisco SSH Configuration]]"
 tags:
   - networking
@@ -183,5 +183,5 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 
 ## 23. Related Notes
 
-- [[AAA]]
+- [[AAA - Authentication, Authorization, and Accounting]]
 - [[Cisco SSH Configuration]]

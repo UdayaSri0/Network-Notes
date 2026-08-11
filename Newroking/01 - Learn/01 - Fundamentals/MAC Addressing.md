@@ -5,7 +5,7 @@ difficulty: "Beginner"
 packet_tracer_supported: "Yes"
 related_protocols:
   - "[[Ethernet Frame]]"
-  - "[[ARP]]"
+  - "[[ARP - Address Resolution Protocol]]"
 tags:
   - networking
   - teaching
@@ -165,4 +165,4 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 ## 23. Related Notes
 
 - [[Ethernet Frame]]
-- [[ARP]]
+- [[ARP - Address Resolution Protocol]]

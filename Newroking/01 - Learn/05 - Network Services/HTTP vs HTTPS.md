@@ -4,8 +4,8 @@ category: "DHCP and Network Services"
 difficulty: "Beginner"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[HTTP]]"
-  - "[[HTTPS]]"
+  - "[[HTTP - Hypertext Transfer Protocol]]"
+  - "[[HTTPS - Hypertext Transfer Protocol Secure]]"
 tags:
   - networking
   - teaching
@@ -164,5 +164,5 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 
 ## 23. Related Notes
 
-- [[HTTP]]
-- [[HTTPS]]
+- [[HTTP - Hypertext Transfer Protocol]]
+- [[HTTPS - Hypertext Transfer Protocol Secure]]

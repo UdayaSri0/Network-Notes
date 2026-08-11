@@ -4,7 +4,7 @@ category: "Network Security"
 difficulty: "Intermediate"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[NAT]]"
+  - "[[NAT - Network Address Translation]]"
   - "[[NAT Not Working]]"
 tags:
   - networking
@@ -169,5 +169,5 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 
 ## 23. Related Notes
 
-- [[NAT]]
+- [[NAT - Network Address Translation]]
 - [[NAT Not Working]]

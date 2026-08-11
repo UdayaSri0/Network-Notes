@@ -4,8 +4,8 @@ category: "Viva and Revision Questions"
 difficulty: "Mixed"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[NTP]]"
-  - "[[NTP]]"
+  - "[[NTP - Network Time Protocol]]"
+  - "[[NTP - Network Time Protocol]]"
   - "[[Networking Dashboard]]"
 tags:
   - networking
@@ -130,6 +130,6 @@ updated: "2026-08-11"
 
 ## Related Notes
 
-- [[NTP]]
-- [[NTP]]
+- [[NTP - Network Time Protocol]]
+- [[NTP - Network Time Protocol]]
 - [[Networking Dashboard]]

@@ -4,7 +4,7 @@ category: "Redundancy and High Availability"
 difficulty: "Intermediate"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[HSRP]]"
+  - "[[HSRP - Hot Standby Router Protocol]]"
   - "[[Lab 23 - HSRP]]"
 tags:
   - networking
@@ -168,5 +168,5 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 
 ## 23. Related Notes
 
-- [[HSRP]]
+- [[HSRP - Hot Standby Router Protocol]]
 - [[Lab 23 - HSRP]]

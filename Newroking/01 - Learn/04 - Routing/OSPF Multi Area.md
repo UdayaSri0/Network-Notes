@@ -4,7 +4,7 @@ category: "Routing Protocols"
 difficulty: "Advanced"
 packet_tracer_supported: "Partial"
 related_protocols:
-  - "[[OSPF]]"
+  - "[[OSPF - Open Shortest Path First]]"
   - "[[OSPF Single Area]]"
 tags:
   - networking
@@ -166,5 +166,5 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 
 ## 23. Related Notes
 
-- [[OSPF]]
+- [[OSPF - Open Shortest Path First]]
 - [[OSPF Single Area]]

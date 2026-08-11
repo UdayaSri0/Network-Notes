@@ -4,7 +4,7 @@ category: "Viva and Revision Questions"
 difficulty: "Mixed"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[DHCP]]"
+  - "[[DHCP - Dynamic Host Configuration Protocol]]"
   - "[[DHCP DORA Process]]"
   - "[[Cisco Router DHCP]]"
   - "[[Dedicated DHCP Server]]"
@@ -131,7 +131,7 @@ updated: "2026-08-11"
 
 ## Related Notes
 
-- [[DHCP]]
+- [[DHCP - Dynamic Host Configuration Protocol]]
 - [[DHCP DORA Process]]
 - [[Cisco Router DHCP]]
 - [[Dedicated DHCP Server]]

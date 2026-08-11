@@ -5,7 +5,7 @@ difficulty: "Intermediate"
 packet_tracer_supported: "Yes"
 related_protocols:
   - "[[EtherChannel]]"
-  - "[[LACP]]"
+  - "[[LACP - Link Aggregation Control Protocol]]"
 tags:
   - networking
   - packet-tracer
@@ -128,5 +128,5 @@ Use the related configuration notes and templates to build a validated reference
 ## 14. Related Notes
 
 - [[EtherChannel]]
-- [[LACP]]
+- [[LACP - Link Aggregation Control Protocol]]
 - [[Networking Dashboard]]

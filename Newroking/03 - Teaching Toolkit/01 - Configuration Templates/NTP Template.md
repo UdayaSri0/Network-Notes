@@ -4,7 +4,7 @@ category: "Configuration Templates"
 difficulty: "Intermediate"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[NTP]]"
+  - "[[NTP - Network Time Protocol]]"
   - "[[Cisco Troubleshooting Commands]]"
 tags:
   - networking
@@ -60,6 +60,6 @@ Add the technology-specific `show` commands from the related note.
 
 ## 5. Related Notes
 
-- [[NTP]]
+- [[NTP - Network Time Protocol]]
 - [[Cisco Troubleshooting Commands]]
 - [[Networking Dashboard]]

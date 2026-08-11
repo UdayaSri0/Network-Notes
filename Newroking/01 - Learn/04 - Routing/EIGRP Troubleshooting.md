@@ -4,7 +4,7 @@ category: "Routing Protocols"
 difficulty: "Intermediate"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[EIGRP]]"
+  - "[[EIGRP - Enhanced Interior Gateway Routing Protocol]]"
   - "[[EIGRP Configuration]]"
 tags:
   - networking
@@ -168,5 +168,5 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 
 ## 23. Related Notes
 
-- [[EIGRP]]
+- [[EIGRP - Enhanced Interior Gateway Routing Protocol]]
 - [[EIGRP Configuration]]

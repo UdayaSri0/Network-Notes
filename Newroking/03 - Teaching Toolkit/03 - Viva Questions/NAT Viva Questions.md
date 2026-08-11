@@ -4,10 +4,10 @@ category: "Viva and Revision Questions"
 difficulty: "Mixed"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[NAT]]"
+  - "[[NAT - Network Address Translation]]"
   - "[[Static NAT]]"
   - "[[Dynamic NAT]]"
-  - "[[PAT]]"
+  - "[[PAT - Port Address Translation]]"
 tags:
   - networking
   - viva
@@ -131,7 +131,7 @@ updated: "2026-08-11"
 
 ## Related Notes
 
-- [[NAT]]
+- [[NAT - Network Address Translation]]
 - [[Static NAT]]
 - [[Dynamic NAT]]
-- [[PAT]]
+- [[PAT - Port Address Translation]]

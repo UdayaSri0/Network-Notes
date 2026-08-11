@@ -4,7 +4,7 @@ category: "Packet Tracer Labs"
 difficulty: "Intermediate"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[RIP]]"
+  - "[[RIP - Routing Information Protocol]]"
   - "[[RIPv2 Configuration]]"
 tags:
   - networking
@@ -127,6 +127,6 @@ Use the related configuration notes and templates to build a validated reference
 
 ## 14. Related Notes
 
-- [[RIP]]
+- [[RIP - Routing Information Protocol]]
 - [[RIPv2 Configuration]]
 - [[Networking Dashboard]]

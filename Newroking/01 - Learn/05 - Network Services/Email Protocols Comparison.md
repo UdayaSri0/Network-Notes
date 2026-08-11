@@ -4,9 +4,9 @@ category: "DHCP and Network Services"
 difficulty: "Beginner"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[SMTP]]"
-  - "[[POP3]]"
-  - "[[IMAP]]"
+  - "[[SMTP - Simple Mail Transfer Protocol]]"
+  - "[[POP3 - Post Office Protocol Version 3]]"
+  - "[[IMAP - Internet Message Access Protocol]]"
 tags:
   - networking
   - teaching
@@ -165,6 +165,6 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 
 ## 23. Related Notes
 
-- [[SMTP]]
-- [[POP3]]
-- [[IMAP]]
+- [[SMTP - Simple Mail Transfer Protocol]]
+- [[POP3 - Post Office Protocol Version 3]]
+- [[IMAP - Internet Message Access Protocol]]

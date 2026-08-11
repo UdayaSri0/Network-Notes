@@ -4,7 +4,7 @@ category: "Packet Tracer Labs"
 difficulty: "Beginner"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[IPv4 Addressing]]"
+  - "[[IPv4 - Internet Protocol Version 4 Addressing]]"
   - "[[Default Gateway]]"
 tags:
   - networking
@@ -127,6 +127,6 @@ Use the related configuration notes and templates to build a validated reference
 
 ## 14. Related Notes
 
-- [[IPv4 Addressing]]
+- [[IPv4 - Internet Protocol Version 4 Addressing]]
 - [[Default Gateway]]
 - [[Networking Dashboard]]

@@ -22,17 +22,17 @@ updated: "2026-08-11"
 ## Recommended Order
 
 - [[Network Monitoring]]
-- [[SNMP]]
-- [[SNMPv2c]]
-- [[SNMPv3]]
+- [[SNMP - Simple Network Management Protocol]]
+- [[SNMPv2c - Simple Network Management Protocol Version 2c]]
+- [[SNMPv3 - Simple Network Management Protocol Version 3]]
 - [[Cisco SNMP Configuration]]
 - [[Syslog]]
 - [[Cisco Syslog Configuration]]
 - [[Syslog Severity Levels]]
 - [[Wireshark]]
 - [[Packet Capture]]
-- [[CDP]]
-- [[LLDP]]
+- [[CDP - Cisco Discovery Protocol]]
+- [[LLDP - Link Layer Discovery Protocol]]
 
 ## Study Pattern
 

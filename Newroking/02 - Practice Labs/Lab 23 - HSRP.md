@@ -27,7 +27,7 @@ tags:
 created: 2026-08-11
 updated: 2026-08-11
 prerequisites:
-  - "[[HSRP]]"
+  - "[[HSRP - Hot Standby Router Protocol]]"
 related:
   - "[[Network Monitoring]]"
 category: "Packet Tracer Labs"
@@ -59,7 +59,7 @@ After this lab, you should be able to:
 - Basic Cisco IOS CLI navigation.
 - IPv4 addressing and subnetting.
 - Basic switch access-port configuration.
-- Familiarity with [[HSRP|HSRP concepts]].
+- Familiarity with [[HSRP - Hot Standby Router Protocol|HSRP concepts]].
 
 ## 3. Topology
 
@@ -568,5 +568,5 @@ copy running-config startup-config
 
 ---
 
-**Parent:** [[HSRP|HSRP Overview]]  
+**Parent:** [[HSRP - Hot Standby Router Protocol|HSRP Overview]]
 **Home:** [[Networking Dashboard]]

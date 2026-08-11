@@ -4,7 +4,7 @@ category: "Routing Protocols"
 difficulty: "Beginner"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[RIP]]"
+  - "[[RIP - Routing Information Protocol]]"
   - "[[RIP Troubleshooting]]"
 tags:
   - networking
@@ -185,5 +185,5 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 
 ## 23. Related Notes
 
-- [[RIP]]
+- [[RIP - Routing Information Protocol]]
 - [[RIP Troubleshooting]]

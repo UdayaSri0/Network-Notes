@@ -4,7 +4,7 @@ category: "Packet Tracer Labs"
 difficulty: "Beginner"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[SSH]]"
+  - "[[SSH - Secure Shell]]"
   - "[[Cisco SSH Configuration]]"
 tags:
   - networking
@@ -128,6 +128,6 @@ Use the related configuration notes and templates to build a validated reference
 
 ## 14. Related Notes
 
-- [[SSH]]
+- [[SSH - Secure Shell]]
 - [[Cisco SSH Configuration]]
 - [[Networking Dashboard]]

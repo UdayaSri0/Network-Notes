@@ -4,7 +4,7 @@ category: "DHCP and Network Services"
 difficulty: "Beginner"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[NTP]]"
+  - "[[NTP - Network Time Protocol]]"
   - "[[Lab 13 - NTP Server]]"
   - "[[NTP Troubleshooting]]"
 tags:
@@ -183,6 +183,6 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 
 ## 23. Related Notes
 
-- [[NTP]]
+- [[NTP - Network Time Protocol]]
 - [[Lab 13 - NTP Server]]
 - [[NTP Troubleshooting]]

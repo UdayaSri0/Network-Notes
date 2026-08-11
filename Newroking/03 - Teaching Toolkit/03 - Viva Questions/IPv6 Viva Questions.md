@@ -4,7 +4,7 @@ category: "Viva and Revision Questions"
 difficulty: "Mixed"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[IPv6]]"
+  - "[[IPv6 - Internet Protocol Version 6]]"
   - "[[IPv6 Address Types]]"
   - "[[IPv6 SLAAC]]"
   - "[[IPv6 Troubleshooting]]"
@@ -131,7 +131,7 @@ updated: "2026-08-11"
 
 ## Related Notes
 
-- [[IPv6]]
+- [[IPv6 - Internet Protocol Version 6]]
 - [[IPv6 Address Types]]
 - [[IPv6 SLAAC]]
 - [[IPv6 Troubleshooting]]

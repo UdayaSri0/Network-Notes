@@ -4,8 +4,8 @@ category: "Viva and Revision Questions"
 difficulty: "Mixed"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[HSRP]]"
-  - "[[HSRP]]"
+  - "[[HSRP - Hot Standby Router Protocol]]"
+  - "[[HSRP - Hot Standby Router Protocol]]"
   - "[[Networking Dashboard]]"
 tags:
   - networking
@@ -130,6 +130,6 @@ updated: "2026-08-11"
 
 ## Related Notes
 
-- [[HSRP]]
-- [[HSRP]]
+- [[HSRP - Hot Standby Router Protocol]]
+- [[HSRP - Hot Standby Router Protocol]]
 - [[Networking Dashboard]]

@@ -4,7 +4,7 @@ category: "DHCP and Network Services"
 difficulty: "Beginner"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[TFTP]]"
+  - "[[TFTP - Trivial File Transfer Protocol]]"
   - "[[Lab 26 - FTP and TFTP]]"
 tags:
   - networking
@@ -181,5 +181,5 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 
 ## 23. Related Notes
 
-- [[TFTP]]
+- [[TFTP - Trivial File Transfer Protocol]]
 - [[Lab 26 - FTP and TFTP]]

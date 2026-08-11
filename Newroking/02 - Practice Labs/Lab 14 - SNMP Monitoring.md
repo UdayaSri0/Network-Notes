@@ -25,9 +25,9 @@ created: 2026-08-11
 updated: 2026-08-11
 prerequisites:
   - "[[Network Monitoring]]"
-  - "[[SNMP]]"
+  - "[[SNMP - Simple Network Management Protocol]]"
 related:
-  - "[[SNMP]]"
+  - "[[SNMP - Simple Network Management Protocol]]"
 category: "Packet Tracer Labs"
 packet_tracer_supported: "Yes"
 related_protocols: []
@@ -55,7 +55,7 @@ After this lab, you should be able to:
 
 - Basic Cisco IOS CLI navigation.
 - Basic IPv4 addressing and ping testing.
-- Familiarity with [[Network Monitoring]] and [[SNMP|SNMP fundamentals]].
+- Familiarity with [[Network Monitoring]] and [[SNMP - Simple Network Management Protocol|SNMP fundamentals]].
 
 ## 3. Topology
 
@@ -303,5 +303,5 @@ copy running-config startup-config
 
 ---
 
-**Parent:** [[SNMP|SNMP Overview]]  
+**Parent:** [[SNMP - Simple Network Management Protocol|SNMP Overview]]
 **Home:** [[Networking Dashboard]]

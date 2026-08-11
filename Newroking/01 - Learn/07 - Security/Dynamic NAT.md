@@ -4,8 +4,8 @@ category: "Network Security"
 difficulty: "Intermediate"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[NAT]]"
-  - "[[PAT]]"
+  - "[[NAT - Network Address Translation]]"
+  - "[[PAT - Port Address Translation]]"
 tags:
   - networking
   - teaching
@@ -166,5 +166,5 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 
 ## 23. Related Notes
 
-- [[NAT]]
-- [[PAT]]
+- [[NAT - Network Address Translation]]
+- [[PAT - Port Address Translation]]

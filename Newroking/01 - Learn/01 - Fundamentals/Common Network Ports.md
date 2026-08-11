@@ -4,8 +4,8 @@ category: "Networking Fundamentals"
 difficulty: "Beginner"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[TCP]]"
-  - "[[UDP]]"
+  - "[[TCP - Transmission Control Protocol]]"
+  - "[[UDP - User Datagram Protocol]]"
   - "[[Networking Port Numbers Cheat Sheet]]"
 tags:
   - networking
@@ -165,8 +165,8 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 
 ## 23. Related Notes
 
-- [[TCP]]
-- [[UDP]]
+- [[TCP - Transmission Control Protocol]]
+- [[UDP - User Datagram Protocol]]
 - [[Networking Port Numbers Cheat Sheet]]
 
 ## Required Port Reference

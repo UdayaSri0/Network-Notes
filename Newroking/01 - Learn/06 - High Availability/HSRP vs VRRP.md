@@ -4,8 +4,8 @@ category: "Redundancy and High Availability"
 difficulty: "Intermediate"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[HSRP]]"
-  - "[[VRRP]]"
+  - "[[HSRP - Hot Standby Router Protocol]]"
+  - "[[VRRP - Virtual Router Redundancy Protocol]]"
 tags:
   - networking
   - teaching
@@ -164,5 +164,5 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 
 ## 23. Related Notes
 
-- [[HSRP]]
-- [[VRRP]]
+- [[HSRP - Hot Standby Router Protocol]]
+- [[VRRP - Virtual Router Redundancy Protocol]]

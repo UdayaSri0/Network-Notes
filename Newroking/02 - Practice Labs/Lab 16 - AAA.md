@@ -4,7 +4,7 @@ category: "Packet Tracer Labs"
 difficulty: "Intermediate"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[AAA]]"
+  - "[[AAA - Authentication, Authorization, and Accounting]]"
   - "[[Local AAA]]"
 tags:
   - networking
@@ -127,6 +127,6 @@ Use the related configuration notes and templates to build a validated reference
 
 ## 14. Related Notes
 
-- [[AAA]]
+- [[AAA - Authentication, Authorization, and Accounting]]
 - [[Local AAA]]
 - [[Networking Dashboard]]

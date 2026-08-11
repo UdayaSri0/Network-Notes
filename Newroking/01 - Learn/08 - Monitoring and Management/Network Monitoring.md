@@ -16,9 +16,9 @@ tags:
 created: 2026-08-11
 updated: 2026-08-11
 related:
-  - "[[NTP]]"
+  - "[[NTP - Network Time Protocol]]"
   - "[[Syslog]]"
-  - "[[SNMP]]"
+  - "[[SNMP - Simple Network Management Protocol]]"
 category: "Network Management and Monitoring"
 difficulty: "Mixed"
 packet_tracer_supported: "Yes"
@@ -56,7 +56,7 @@ related_protocols: []
 | Method | Typical use |
 |---|---|
 | ICMP | Reachability and round-trip time |
-| [[SNMP|SNMP]] | Device status, counters, and alerts |
+| [[SNMP - Simple Network Management Protocol|SNMP]] | Device status, counters, and alerts |
 | [[Syslog|Syslog]] | Event and diagnostic messages |
 | Flow records | Traffic sources, destinations, and volume |
 | Streaming telemetry | Frequent structured operational data |
@@ -72,11 +72,11 @@ Device ------> timestamped Syslog events ------> Syslog Server
   `---------> SNMP status and alerts ----------> NMS
 ```
 
-- [[NTP|NTP]] keeps device clocks consistent so events can be correlated.
+- [[NTP - Network Time Protocol|NTP]] keeps device clocks consistent so events can be correlated.
 - [[Syslog|Syslog]] sends event and diagnostic messages to a central server.
-- [[SNMP|SNMP]] lets an NMS read device status and receive alerts.
+- [[SNMP - Simple Network Management Protocol|SNMP]] lets an NMS read device status and receive alerts.
 
 ---
 
 **Parent:** [[Networking Dashboard]]  
-**Next:** [[NTP|NTP Overview]]
+**Next:** [[NTP - Network Time Protocol|NTP Overview]]

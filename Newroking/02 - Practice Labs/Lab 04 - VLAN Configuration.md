@@ -4,7 +4,7 @@ category: "Packet Tracer Labs"
 difficulty: "Beginner"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[VLAN]]"
+  - "[[VLAN - Virtual Local Area Network]]"
   - "[[VLAN Configuration]]"
 tags:
   - networking
@@ -127,6 +127,6 @@ Use the related configuration notes and templates to build a validated reference
 
 ## 14. Related Notes
 
-- [[VLAN]]
+- [[VLAN - Virtual Local Area Network]]
 - [[VLAN Configuration]]
 - [[Networking Dashboard]]

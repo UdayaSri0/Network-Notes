@@ -5,8 +5,8 @@ difficulty: "Mixed"
 packet_tracer_supported: "Yes"
 related_protocols:
   - "[[EtherChannel]]"
-  - "[[LACP]]"
-  - "[[PAgP]]"
+  - "[[LACP - Link Aggregation Control Protocol]]"
+  - "[[PAgP - Port Aggregation Protocol]]"
   - "[[EtherChannel Troubleshooting]]"
 tags:
   - networking
@@ -132,6 +132,6 @@ updated: "2026-08-11"
 ## Related Notes
 
 - [[EtherChannel]]
-- [[LACP]]
-- [[PAgP]]
+- [[LACP - Link Aggregation Control Protocol]]
+- [[PAgP - Port Aggregation Protocol]]
 - [[EtherChannel Troubleshooting]]

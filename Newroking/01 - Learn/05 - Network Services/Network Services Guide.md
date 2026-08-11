@@ -21,20 +21,20 @@ updated: "2026-08-11"
 
 ## Recommended Order
 
-- [[DHCP]]
+- [[DHCP - Dynamic Host Configuration Protocol]]
 - [[Dedicated DHCP Server]]
 - [[DHCP Relay]]
-- [[DNS]]
+- [[DNS - Domain Name System]]
 - [[Packet Tracer DNS Server]]
-- [[NTP]]
+- [[NTP - Network Time Protocol]]
 - [[Cisco NTP Configuration]]
-- [[FTP]]
-- [[TFTP]]
-- [[HTTP]]
-- [[HTTPS]]
-- [[SMTP]]
-- [[POP3]]
-- [[IMAP]]
+- [[FTP - File Transfer Protocol]]
+- [[TFTP - Trivial File Transfer Protocol]]
+- [[HTTP - Hypertext Transfer Protocol]]
+- [[HTTPS - Hypertext Transfer Protocol Secure]]
+- [[SMTP - Simple Mail Transfer Protocol]]
+- [[POP3 - Post Office Protocol Version 3]]
+- [[IMAP - Internet Message Access Protocol]]
 
 ## Study Pattern
 

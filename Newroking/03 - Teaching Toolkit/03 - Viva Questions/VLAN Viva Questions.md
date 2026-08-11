@@ -4,7 +4,7 @@ category: "Viva and Revision Questions"
 difficulty: "Mixed"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[VLAN]]"
+  - "[[VLAN - Virtual Local Area Network]]"
   - "[[VLAN Configuration]]"
   - "[[802.1Q Trunking]]"
 tags:
@@ -130,6 +130,6 @@ updated: "2026-08-11"
 
 ## Related Notes
 
-- [[VLAN]]
+- [[VLAN - Virtual Local Area Network]]
 - [[VLAN Configuration]]
 - [[802.1Q Trunking]]

@@ -21,16 +21,16 @@ updated: "2026-08-11"
 
 ## Recommended Order
 
-- [[SSH]]
+- [[SSH - Secure Shell]]
 - [[Cisco SSH Configuration]]
-- [[AAA]]
-- [[RADIUS]]
-- [[TACACS+]]
-- [[ACL]]
+- [[AAA - Authentication, Authorization, and Accounting]]
+- [[RADIUS - Remote Authentication Dial-In User Service]]
+- [[TACACS+ - Terminal Access Controller Access-Control System Plus]]
+- [[ACL - Access Control List]]
 - [[Standard ACL]]
 - [[Extended ACL]]
-- [[NAT]]
-- [[PAT]]
+- [[NAT - Network Address Translation]]
+- [[PAT - Port Address Translation]]
 - [[Switch Port Security]]
 - [[DHCP Snooping]]
 - [[Dynamic ARP Inspection]]

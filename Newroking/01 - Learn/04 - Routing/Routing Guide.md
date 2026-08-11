@@ -24,13 +24,13 @@ updated: "2026-08-11"
 - [[Static Routing]]
 - [[Default Route]]
 - [[Floating Static Route]]
-- [[RIP]]
+- [[RIP - Routing Information Protocol]]
 - [[RIPv2 Configuration]]
-- [[OSPF]]
+- [[OSPF - Open Shortest Path First]]
 - [[OSPF Single Area]]
 - [[OSPF Multi Area]]
 - [[OSPF Troubleshooting]]
-- [[EIGRP]]
+- [[EIGRP - Enhanced Interior Gateway Routing Protocol]]
 - [[RIP vs OSPF vs EIGRP]]
 
 ## Study Pattern

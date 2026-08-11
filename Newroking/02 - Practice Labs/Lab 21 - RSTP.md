@@ -4,7 +4,7 @@ category: "Packet Tracer Labs"
 difficulty: "Intermediate"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[RSTP]]"
+  - "[[RSTP - Rapid Spanning Tree Protocol]]"
   - "[[RSTP vs STP]]"
 tags:
   - networking
@@ -127,6 +127,6 @@ Use the related configuration notes and templates to build a validated reference
 
 ## 14. Related Notes
 
-- [[RSTP]]
+- [[RSTP - Rapid Spanning Tree Protocol]]
 - [[RSTP vs STP]]
 - [[Networking Dashboard]]

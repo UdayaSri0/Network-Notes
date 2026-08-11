@@ -4,9 +4,9 @@ category: "Viva and Revision Questions"
 difficulty: "Mixed"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[IPv4 Addressing]]"
+  - "[[IPv4 - Internet Protocol Version 4 Addressing]]"
   - "[[Subnet Mask]]"
-  - "[[CIDR]]"
+  - "[[CIDR - Classless Inter-Domain Routing]]"
   - "[[Default Gateway]]"
 tags:
   - networking
@@ -131,7 +131,7 @@ updated: "2026-08-11"
 
 ## Related Notes
 
-- [[IPv4 Addressing]]
+- [[IPv4 - Internet Protocol Version 4 Addressing]]
 - [[Subnet Mask]]
-- [[CIDR]]
+- [[CIDR - Classless Inter-Domain Routing]]
 - [[Default Gateway]]

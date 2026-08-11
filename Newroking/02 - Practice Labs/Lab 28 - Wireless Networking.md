@@ -5,7 +5,7 @@ difficulty: "Beginner"
 packet_tracer_supported: "Yes"
 related_protocols:
   - "[[Wireless Networking]]"
-  - "[[WPA2]]"
+  - "[[WPA2 - Wi-Fi Protected Access 2]]"
 tags:
   - networking
   - packet-tracer
@@ -129,5 +129,5 @@ Use the related configuration notes and templates to build a validated reference
 ## 14. Related Notes
 
 - [[Wireless Networking]]
-- [[WPA2]]
+- [[WPA2 - Wi-Fi Protected Access 2]]
 - [[Networking Dashboard]]

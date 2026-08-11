@@ -4,8 +4,8 @@ category: "Packet Tracer Labs"
 difficulty: "Intermediate"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[NAT]]"
-  - "[[PAT]]"
+  - "[[NAT - Network Address Translation]]"
+  - "[[PAT - Port Address Translation]]"
 tags:
   - networking
   - packet-tracer
@@ -127,6 +127,6 @@ Use the related configuration notes and templates to build a validated reference
 
 ## 14. Related Notes
 
-- [[NAT]]
-- [[PAT]]
+- [[NAT - Network Address Translation]]
+- [[PAT - Port Address Translation]]
 - [[Networking Dashboard]]

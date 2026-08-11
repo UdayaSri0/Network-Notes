@@ -4,7 +4,7 @@ category: "Network Security"
 difficulty: "Beginner"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[SSH]]"
+  - "[[SSH - Secure Shell]]"
   - "[[SSH Troubleshooting]]"
 tags:
   - networking
@@ -188,5 +188,5 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 
 ## 23. Related Notes
 
-- [[SSH]]
+- [[SSH - Secure Shell]]
 - [[SSH Troubleshooting]]

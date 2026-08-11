@@ -4,7 +4,7 @@ category: "Viva and Revision Questions"
 difficulty: "Mixed"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[RIP]]"
+  - "[[RIP - Routing Information Protocol]]"
   - "[[RIPv2 Configuration]]"
   - "[[RIP Troubleshooting]]"
 tags:
@@ -130,6 +130,6 @@ updated: "2026-08-11"
 
 ## Related Notes
 
-- [[RIP]]
+- [[RIP - Routing Information Protocol]]
 - [[RIPv2 Configuration]]
 - [[RIP Troubleshooting]]

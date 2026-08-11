@@ -4,7 +4,7 @@ category: "Viva and Revision Questions"
 difficulty: "Mixed"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[SSH]]"
+  - "[[SSH - Secure Shell]]"
   - "[[Cisco SSH Configuration]]"
   - "[[SSH vs Telnet]]"
 tags:
@@ -130,6 +130,6 @@ updated: "2026-08-11"
 
 ## Related Notes
 
-- [[SSH]]
+- [[SSH - Secure Shell]]
 - [[Cisco SSH Configuration]]
 - [[SSH vs Telnet]]

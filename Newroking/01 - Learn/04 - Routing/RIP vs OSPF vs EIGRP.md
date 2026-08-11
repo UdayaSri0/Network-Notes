@@ -4,9 +4,9 @@ category: "Routing Protocols"
 difficulty: "Intermediate"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[RIP]]"
-  - "[[OSPF]]"
-  - "[[EIGRP]]"
+  - "[[RIP - Routing Information Protocol]]"
+  - "[[OSPF - Open Shortest Path First]]"
+  - "[[EIGRP - Enhanced Interior Gateway Routing Protocol]]"
 tags:
   - networking
   - teaching
@@ -167,9 +167,9 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 
 ## 23. Related Notes
 
-- [[RIP]]
-- [[OSPF]]
-- [[EIGRP]]
+- [[RIP - Routing Information Protocol]]
+- [[OSPF - Open Shortest Path First]]
+- [[EIGRP - Enhanced Interior Gateway Routing Protocol]]
 
 ## Comparison Table
 

@@ -4,7 +4,7 @@ category: "DHCP and Network Services"
 difficulty: "Beginner"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[DNS]]"
+  - "[[DNS - Domain Name System]]"
   - "[[Packet Tracer Web Server]]"
 tags:
   - networking
@@ -167,5 +167,5 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 
 ## 23. Related Notes
 
-- [[DNS]]
+- [[DNS - Domain Name System]]
 - [[Packet Tracer Web Server]]

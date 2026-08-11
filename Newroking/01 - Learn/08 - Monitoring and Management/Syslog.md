@@ -22,7 +22,7 @@ created: 2026-08-11
 updated: 2026-08-11
 related:
   - "[[Network Monitoring]]"
-  - "[[NTP]]"
+  - "[[NTP - Network Time Protocol]]"
   - "[[Lab 15 - Syslog Server]]"
 category: "Network Management and Monitoring"
 difficulty: "Mixed"
@@ -108,7 +108,7 @@ The source generates events; the server receives and stores them.
 
 ## 7. Relationship with NTP
 
-[[NTP|NTP]] is essential to useful logging. If devices have different clocks, events can appear in the wrong order and troubleshooting becomes unreliable.
+[[NTP - Network Time Protocol|NTP]] is essential to useful logging. If devices have different clocks, events can appear in the wrong order and troubleshooting becomes unreliable.
 
 ```text
 NTP Server ---> synchronized time ---> Router
@@ -137,4 +137,4 @@ Syslog Server <--- timestamped events ----+
 
 **Parent:** [[Network Monitoring]]  
 **Practice:** [[Lab 15 - Syslog Server|Configure Syslog in Cisco Packet Tracer]]  
-**Related:** [[NTP|NTP Overview]]
+**Related:** [[NTP - Network Time Protocol|NTP Overview]]

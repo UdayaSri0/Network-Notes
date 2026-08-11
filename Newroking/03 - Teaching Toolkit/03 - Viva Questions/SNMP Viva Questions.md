@@ -4,8 +4,8 @@ category: "Viva and Revision Questions"
 difficulty: "Mixed"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[SNMP]]"
-  - "[[SNMP]]"
+  - "[[SNMP - Simple Network Management Protocol]]"
+  - "[[SNMP - Simple Network Management Protocol]]"
   - "[[Networking Dashboard]]"
 tags:
   - networking
@@ -130,6 +130,6 @@ updated: "2026-08-11"
 
 ## Related Notes
 
-- [[SNMP]]
-- [[SNMP]]
+- [[SNMP - Simple Network Management Protocol]]
+- [[SNMP - Simple Network Management Protocol]]
 - [[Networking Dashboard]]

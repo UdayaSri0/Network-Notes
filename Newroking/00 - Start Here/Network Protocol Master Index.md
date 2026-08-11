@@ -22,65 +22,65 @@ updated: "2026-08-11"
 ## Layer 2
 
 - [[Ethernet]]
-- [[ARP]]
-- [[STP]]
-- [[RSTP]]
-- [[LACP]]
-- [[PAgP]]
-- [[CDP]]
-- [[LLDP]]
+- [[ARP - Address Resolution Protocol]]
+- [[STP - Spanning Tree Protocol]]
+- [[RSTP - Rapid Spanning Tree Protocol]]
+- [[LACP - Link Aggregation Control Protocol]]
+- [[PAgP - Port Aggregation Protocol]]
+- [[CDP - Cisco Discovery Protocol]]
+- [[LLDP - Link Layer Discovery Protocol]]
 - [[802.1Q Trunking]]
 
 ## Layer 3
 
-- [[IPv4 Addressing]]
-- [[IPv6]]
-- [[ICMP]]
-- [[OSPF]]
-- [[RIP]]
-- [[EIGRP]]
-- [[IPsec]]
-- [[GRE Tunnel]]
+- [[IPv4 - Internet Protocol Version 4 Addressing]]
+- [[IPv6 - Internet Protocol Version 6]]
+- [[ICMP - Internet Control Message Protocol]]
+- [[OSPF - Open Shortest Path First]]
+- [[RIP - Routing Information Protocol]]
+- [[EIGRP - Enhanced Interior Gateway Routing Protocol]]
+- [[IPsec - Internet Protocol Security]]
+- [[GRE - Generic Routing Encapsulation Tunnel]]
 
 ## Transport
 
-- [[TCP]]
-- [[UDP]]
+- [[TCP - Transmission Control Protocol]]
+- [[UDP - User Datagram Protocol]]
 
 ## Application and Services
 
-- [[DHCP]]
-- [[DNS]]
-- [[HTTP]]
-- [[HTTPS]]
-- [[FTP]]
-- [[TFTP]]
-- [[SSH]]
+- [[DHCP - Dynamic Host Configuration Protocol]]
+- [[DNS - Domain Name System]]
+- [[HTTP - Hypertext Transfer Protocol]]
+- [[HTTPS - Hypertext Transfer Protocol Secure]]
+- [[FTP - File Transfer Protocol]]
+- [[TFTP - Trivial File Transfer Protocol]]
+- [[SSH - Secure Shell]]
 - [[Telnet]]
-- [[SMTP]]
-- [[POP3]]
-- [[IMAP]]
-- [[SNMP]]
-- [[NTP]]
+- [[SMTP - Simple Mail Transfer Protocol]]
+- [[POP3 - Post Office Protocol Version 3]]
+- [[IMAP - Internet Message Access Protocol]]
+- [[SNMP - Simple Network Management Protocol]]
+- [[NTP - Network Time Protocol]]
 - [[Syslog]]
-- [[RADIUS]]
-- [[TACACS+]]
+- [[RADIUS - Remote Authentication Dial-In User Service]]
+- [[TACACS+ - Terminal Access Controller Access-Control System Plus]]
 
 ## High Availability
 
-- [[HSRP]]
-- [[VRRP]]
-- [[GLBP]]
+- [[HSRP - Hot Standby Router Protocol]]
+- [[VRRP - Virtual Router Redundancy Protocol]]
+- [[GLBP - Gateway Load Balancing Protocol]]
 
 ## Security Mechanisms
 
-- [[ACL]]
-- [[NAT]]
+- [[ACL - Access Control List]]
+- [[NAT - Network Address Translation]]
 - [[Switch Port Security]]
 - [[DHCP Snooping]]
 - [[Dynamic ARP Inspection]]
 - [[IP Source Guard]]
-- [[AAA]]
+- [[AAA - Authentication, Authorization, and Accounting]]
 
 ## Classification Reminder
 

@@ -4,7 +4,7 @@ category: "Viva and Revision Questions"
 difficulty: "Mixed"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[ACL]]"
+  - "[[ACL - Access Control List]]"
   - "[[Standard ACL]]"
   - "[[Extended ACL]]"
   - "[[Named ACL]]"
@@ -131,7 +131,7 @@ updated: "2026-08-11"
 
 ## Related Notes
 
-- [[ACL]]
+- [[ACL - Access Control List]]
 - [[Standard ACL]]
 - [[Extended ACL]]
 - [[Named ACL]]

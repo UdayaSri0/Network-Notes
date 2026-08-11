@@ -4,7 +4,7 @@ category: "Networking Fundamentals"
 difficulty: "Beginner"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[VLAN]]"
+  - "[[VLAN - Virtual Local Area Network]]"
   - "[[Broadcast]]"
 tags:
   - networking
@@ -164,5 +164,5 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 
 ## 23. Related Notes
 
-- [[VLAN]]
+- [[VLAN - Virtual Local Area Network]]
 - [[Broadcast]]

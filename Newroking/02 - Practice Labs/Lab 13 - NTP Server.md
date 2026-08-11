@@ -24,7 +24,7 @@ tags:
 created: 2026-08-11
 updated: 2026-08-11
 prerequisites:
-  - "[[NTP]]"
+  - "[[NTP - Network Time Protocol]]"
 related:
   - "[[Network Monitoring]]"
   - "[[Lab 15 - Syslog Server]]"
@@ -55,7 +55,7 @@ After this lab, you should be able to:
 
 - Basic Cisco IOS CLI navigation.
 - Basic IPv4 addressing and ping testing.
-- Familiarity with [[NTP|NTP fundamentals]].
+- Familiarity with [[NTP - Network Time Protocol|NTP fundamentals]].
 
 ## 3. Topology
 
@@ -286,6 +286,6 @@ copy running-config startup-config
 
 ---
 
-**Parent:** [[NTP|NTP Overview]]  
+**Parent:** [[NTP - Network Time Protocol|NTP Overview]]
 **Next:** [[Lab 15 - Syslog Server|Configure Syslog in Cisco Packet Tracer]]  
 **Home:** [[Networking Dashboard]]

@@ -28,7 +28,7 @@ prerequisites:
   - "[[Syslog]]"
 related:
   - "[[Network Monitoring]]"
-  - "[[NTP]]"
+  - "[[NTP - Network Time Protocol]]"
   - "[[Lab 13 - NTP Server]]"
 category: "Packet Tracer Labs"
 packet_tracer_supported: "Yes"

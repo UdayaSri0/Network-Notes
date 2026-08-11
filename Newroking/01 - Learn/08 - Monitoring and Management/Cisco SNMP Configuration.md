@@ -4,7 +4,7 @@ category: "Network Management and Monitoring"
 difficulty: "Beginner"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[SNMP]]"
+  - "[[SNMP - Simple Network Management Protocol]]"
   - "[[Lab 14 - SNMP Monitoring]]"
   - "[[SNMP Troubleshooting]]"
 tags:
@@ -185,6 +185,6 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 
 ## 23. Related Notes
 
-- [[SNMP]]
+- [[SNMP - Simple Network Management Protocol]]
 - [[Lab 14 - SNMP Monitoring]]
 - [[SNMP Troubleshooting]]

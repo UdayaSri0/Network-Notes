@@ -4,8 +4,8 @@ category: "Network Security"
 difficulty: "Intermediate"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[RADIUS]]"
-  - "[[TACACS+]]"
+  - "[[RADIUS - Remote Authentication Dial-In User Service]]"
+  - "[[TACACS+ - Terminal Access Controller Access-Control System Plus]]"
 tags:
   - networking
   - teaching
@@ -164,5 +164,5 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 
 ## 23. Related Notes
 
-- [[RADIUS]]
-- [[TACACS+]]
+- [[RADIUS - Remote Authentication Dial-In User Service]]
+- [[TACACS+ - Terminal Access Controller Access-Control System Plus]]

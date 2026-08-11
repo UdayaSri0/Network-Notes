@@ -4,14 +4,14 @@ category: "Dashboard"
 difficulty: "Mixed"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[IPv4 Addressing]]"
+  - "[[IPv4 - Internet Protocol Version 4 Addressing]]"
   - "[[Default Gateway]]"
   - "[[Static Routing]]"
   - "[[Default Route]]"
   - "[[Floating Static Route]]"
-  - "[[RIP]]"
+  - "[[RIP - Routing Information Protocol]]"
   - "[[RIPv2 Configuration]]"
-  - "[[OSPF]]"
+  - "[[OSPF - Open Shortest Path First]]"
 tags:
   - networking
   - moc
@@ -29,17 +29,17 @@ updated: "2026-08-11"
 
 ## Teaching Sequence
 
-- [[IPv4 Addressing]]
+- [[IPv4 - Internet Protocol Version 4 Addressing]]
 - [[Default Gateway]]
 - [[Static Routing]]
 - [[Default Route]]
 - [[Floating Static Route]]
-- [[RIP]]
+- [[RIP - Routing Information Protocol]]
 - [[RIPv2 Configuration]]
-- [[OSPF]]
+- [[OSPF - Open Shortest Path First]]
 - [[OSPF Single Area]]
 - [[OSPF Multi Area]]
-- [[EIGRP]]
+- [[EIGRP - Enhanced Interior Gateway Routing Protocol]]
 - [[RIP vs OSPF vs EIGRP]]
 
 ## Lecturer Workflow

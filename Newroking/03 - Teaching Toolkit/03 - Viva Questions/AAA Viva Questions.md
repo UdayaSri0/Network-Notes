@@ -4,10 +4,10 @@ category: "Viva and Revision Questions"
 difficulty: "Mixed"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[AAA]]"
+  - "[[AAA - Authentication, Authorization, and Accounting]]"
   - "[[Local AAA]]"
-  - "[[RADIUS]]"
-  - "[[TACACS+]]"
+  - "[[RADIUS - Remote Authentication Dial-In User Service]]"
+  - "[[TACACS+ - Terminal Access Controller Access-Control System Plus]]"
 tags:
   - networking
   - viva
@@ -131,7 +131,7 @@ updated: "2026-08-11"
 
 ## Related Notes
 
-- [[AAA]]
+- [[AAA - Authentication, Authorization, and Accounting]]
 - [[Local AAA]]
-- [[RADIUS]]
-- [[TACACS+]]
+- [[RADIUS - Remote Authentication Dial-In User Service]]
+- [[TACACS+ - Terminal Access Controller Access-Control System Plus]]

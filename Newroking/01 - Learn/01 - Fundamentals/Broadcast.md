@@ -5,7 +5,7 @@ difficulty: "Beginner"
 packet_tracer_supported: "Yes"
 related_protocols:
   - "[[Broadcast Domain]]"
-  - "[[ARP]]"
+  - "[[ARP - Address Resolution Protocol]]"
   - "[[DHCP DORA Process]]"
 tags:
   - networking
@@ -166,5 +166,5 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 ## 23. Related Notes
 
 - [[Broadcast Domain]]
-- [[ARP]]
+- [[ARP - Address Resolution Protocol]]
 - [[DHCP DORA Process]]

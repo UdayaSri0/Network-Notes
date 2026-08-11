@@ -4,7 +4,7 @@ category: "Redundancy and High Availability"
 difficulty: "Intermediate"
 packet_tracer_supported: "Partial"
 related_protocols:
-  - "[[VRRP]]"
+  - "[[VRRP - Virtual Router Redundancy Protocol]]"
   - "[[HSRP vs VRRP]]"
 tags:
   - networking
@@ -185,5 +185,5 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 
 ## 23. Related Notes
 
-- [[VRRP]]
+- [[VRRP - Virtual Router Redundancy Protocol]]
 - [[HSRP vs VRRP]]

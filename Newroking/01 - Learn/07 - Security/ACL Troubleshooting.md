@@ -4,7 +4,7 @@ category: "Network Security"
 difficulty: "Intermediate"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[ACL]]"
+  - "[[ACL - Access Control List]]"
   - "[[ACL Blocking Traffic]]"
 tags:
   - networking
@@ -168,5 +168,5 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 
 ## 23. Related Notes
 
-- [[ACL]]
+- [[ACL - Access Control List]]
 - [[ACL Blocking Traffic]]

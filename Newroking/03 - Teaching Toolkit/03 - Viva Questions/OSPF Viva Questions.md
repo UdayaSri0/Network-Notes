@@ -4,7 +4,7 @@ category: "Viva and Revision Questions"
 difficulty: "Mixed"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[OSPF]]"
+  - "[[OSPF - Open Shortest Path First]]"
   - "[[OSPF Single Area]]"
   - "[[OSPF Neighbourship]]"
   - "[[OSPF Troubleshooting]]"
@@ -131,7 +131,7 @@ updated: "2026-08-11"
 
 ## Related Notes
 
-- [[OSPF]]
+- [[OSPF - Open Shortest Path First]]
 - [[OSPF Single Area]]
 - [[OSPF Neighbourship]]
 - [[OSPF Troubleshooting]]

@@ -4,7 +4,7 @@ category: "Packet Tracer Labs"
 difficulty: "Intermediate"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[IPv6]]"
+  - "[[IPv6 - Internet Protocol Version 6]]"
   - "[[IPv6 SLAAC]]"
 tags:
   - networking
@@ -127,6 +127,6 @@ Use the related configuration notes and templates to build a validated reference
 
 ## 14. Related Notes
 
-- [[IPv6]]
+- [[IPv6 - Internet Protocol Version 6]]
 - [[IPv6 SLAAC]]
 - [[Networking Dashboard]]

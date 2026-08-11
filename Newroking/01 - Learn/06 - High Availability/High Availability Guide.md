@@ -21,14 +21,14 @@ updated: "2026-08-11"
 
 ## Recommended Order
 
-- [[HSRP]]
+- [[HSRP - Hot Standby Router Protocol]]
 - [[HSRP Configuration]]
 - [[HSRP Tracking]]
 - [[HSRP Troubleshooting]]
-- [[VRRP]]
+- [[VRRP - Virtual Router Redundancy Protocol]]
 - [[VRRP Configuration]]
 - [[HSRP vs VRRP]]
-- [[GLBP]]
+- [[GLBP - Gateway Load Balancing Protocol]]
 
 ## Study Pattern
 

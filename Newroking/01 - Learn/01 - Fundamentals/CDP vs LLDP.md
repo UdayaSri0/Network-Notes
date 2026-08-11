@@ -4,8 +4,8 @@ category: "Networking Fundamentals"
 difficulty: "Beginner"
 packet_tracer_supported: "Yes"
 related_protocols:
-  - "[[CDP]]"
-  - "[[LLDP]]"
+  - "[[CDP - Cisco Discovery Protocol]]"
+  - "[[LLDP - Link Layer Discovery Protocol]]"
 tags:
   - networking
   - teaching
@@ -164,5 +164,5 @@ Introduce one realistic fault, diagnose it without deleting the configuration, r
 
 ## 23. Related Notes
 
-- [[CDP]]
-- [[LLDP]]
+- [[CDP - Cisco Discovery Protocol]]
+- [[LLDP - Link Layer Discovery Protocol]]
