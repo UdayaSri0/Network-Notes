@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practical with Sample Code and Configs/Cisco Packet Tracer – Three-Router Static Routing Lab.md",
+                "file": "Practical with Sample Code and Configs/HSRP Gateway Redundancy Lab/HSRP Gateway Redundancy Lab - Configuration Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cisco Packet Tracer – Three-Router Static Routing Lab"
+              "title": "HSRP Gateway Redundancy Lab - Configuration Guide"
             }
           }
         ],
