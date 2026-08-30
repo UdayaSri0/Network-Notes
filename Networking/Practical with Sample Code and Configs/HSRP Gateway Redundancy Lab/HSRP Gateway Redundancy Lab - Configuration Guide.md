@@ -130,7 +130,7 @@ exit
 interface fastEthernet0/1
  switchport mode access
  switchport access vlan 10
- spanning-tree portfast
+ -
  no shutdown
 exit
 
@@ -602,3 +602,5 @@ Then replace the guide's interface name with the actual connected interface.
 ## Expected result
 
 The PCs always send traffic to a stable `.1` virtual gateway. If the active gateway loses its forwarding path or fails completely, the standby router assumes the same virtual IP and continues forwarding traffic. The floating static routes provide an alternate Layer 3 path between the three LANs.
+
+Obsidian 
