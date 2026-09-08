@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">A path through Network Notes</title>
+  <desc id="description">Five stages: Foundations covers models, addressing and subnetting. Connect covers switching, routing and services. Protect covers security and gateway resilience. Expand covers monitoring, WAN, VPN, wireless and IPv6. Troubleshoot covers verification and enterprise labs.</desc>
+  <rect width="1200" height="320" fill="#071421"/>
+  <path d="M40 82H1160" stroke="#203345"/>
+  <text x="40" y="38" fill="#80d3bd" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="3">THE LEARNING ROUTE</text>
+  <text x="40" y="65" fill="#f3eddf" font-family="Segoe UI, Arial, sans-serif" font-size="20">Build from first principles. Put each layer into practice.</text>
+  <path d="M60 132H1090" fill="none" stroke="#436b69" stroke-width="2"/>
+  <path d="M1083 125L1090 132L1083 139" fill="none" stroke="#80d3bd" stroke-width="2"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <circle cx="60" cy="132" r="21" fill="#102932" stroke="#80d3bd" stroke-width="2"/>
+    <text x="60" y="138" text-anchor="middle" fill="#a0e9d6" font-size="16" font-weight="700">01</text>
+    <text x="40" y="192" fill="#f3eddf" font-size="24" font-weight="600">Foundations</text>
+    <text x="40" y="223" fill="#b8c8d1" font-size="17">Models · addressing</text>
+    <text x="40" y="249" fill="#b8c8d1" font-size="17">Subnetting</text>
+
+    <circle cx="288" cy="132" r="21" fill="#102932" stroke="#80d3bd" stroke-width="2"/>
+    <text x="288" y="138" text-anchor="middle" fill="#a0e9d6" font-size="16" font-weight="700">02</text>
+    <text x="268" y="192" fill="#f3eddf" font-size="24" font-weight="600">Connect</text>
+    <text x="268" y="223" fill="#b8c8d1" font-size="17">Switching · routing</text>
+    <text x="268" y="249" fill="#b8c8d1" font-size="17">Network services</text>
+
+    <circle cx="516" cy="132" r="21" fill="#102932" stroke="#80d3bd" stroke-width="2"/>
+    <text x="516" y="138" text-anchor="middle" fill="#a0e9d6" font-size="16" font-weight="700">03</text>
+    <text x="496" y="192" fill="#f3eddf" font-size="24" font-weight="600">Protect</text>
+    <text x="496" y="223" fill="#b8c8d1" font-size="17">Security</text>
+    <text x="496" y="249" fill="#b8c8d1" font-size="17">Gateway resilience</text>
+
+    <circle cx="744" cy="132" r="21" fill="#102932" stroke="#80d3bd" stroke-width="2"/>
+    <text x="744" y="138" text-anchor="middle" fill="#a0e9d6" font-size="16" font-weight="700">04</text>
+    <text x="724" y="192" fill="#f3eddf" font-size="24" font-weight="600">Expand</text>
+    <text x="724" y="223" fill="#b8c8d1" font-size="17">Monitoring · WAN · VPN</text>
+    <text x="724" y="249" fill="#b8c8d1" font-size="17">Wireless · IPv6</text>
+
+    <circle cx="972" cy="132" r="21" fill="#302b24" stroke="#e6b16a" stroke-width="2"/>
+    <text x="972" y="138" text-anchor="middle" fill="#f2c688" font-size="16" font-weight="700">05</text>
+    <text x="952" y="192" fill="#f3eddf" font-size="24" font-weight="600">Troubleshoot</text>
+    <text x="952" y="223" fill="#b8c8d1" font-size="17">Verification</text>
+    <text x="952" y="249" fill="#b8c8d1" font-size="17">Enterprise labs</text>
+  </g>
+  <path d="M40 289H1160" stroke="#203345"/>
+</svg>
