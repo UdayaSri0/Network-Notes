@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practical with Sample Code and Configs/HSRP Gateway Redundancy Lab/HSRP Gateway Redundancy Lab - Configuration Guide.md",
+                "file": "Practical with Sample Code and Configs/Three-Router OSPF Lab/Cisco Packet Tracer – Three-Router OSPF Lab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HSRP Gateway Redundancy Lab - Configuration Guide"
+              "title": "Cisco Packet Tracer – Three-Router OSPF Lab"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "39 - IPsec - Internet Protocol Security Site-to-Site VPN - Step by Step"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vpn",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,8 +90,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,12 +199,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "724c65051b2a2f29",
+  "active": "e0cd002f13eeae8e",
   "lastOpenFiles": [
+    "Practical with Sample Code and Configs/Three-Router OSPF Lab/Three-Router OSPF Topology.png",
+    "Practical with Sample Code and Configs/HSRP Gateway Redundancy Lab/HSRP Gateway Redundancy Lab - Configuration Guide.md",
+    "Practical with Sample Code and Configs/HSRP Gateway Redundancy Lab/HSRP Original Topology.png",
+    "Practical with Sample Code and Configs/Three-Router Static Routing Lab/Cisco Packet Tracer – Three-Router Static Routing Lab.md",
+    "Practical with Sample Code and Configs/Three-Router OSPF Lab/Three-Router OSPF Lab - Configuration Guide.md",
+    "Practical with Sample Code and Configs/Three-Router OSPF Lab/Cisco Packet Tracer – Three-Router OSPF Lab.md",
+    "Practical with Sample Code and Configs/Three-Router OSPF Lab/Three-Router OSPF Lab.pkt",
+    "Practical with Sample Code and Configs/Three-Router OSPF Lab/HSRP Gateway Redundancy Lab.pkt",
+    "Practical with Sample Code and Configs/Three-Router OSPF Lab/Screenshot 2026-09-08 101507.png",
+    "Practical with Sample Code and Configs/Three-Router OSPF Lab",
+    "05 - Step-by-Step Configurations/08 - WAN, VPN, and Wireless/39 - IPsec - Internet Protocol Security Site-to-Site VPN - Step by Step.md",
     "01 - Learn/05 - Network Services/Network Services Guide.md",
     "00 - Start Here/Student Dashboard.md",
     "00 - Start Here/Networking Dashboard.md",
-    "Practical with Sample Code and Configs/HSRP Gateway Redundancy Lab/HSRP Gateway Redundancy Lab - Configuration Guide.md",
     "05 - Step-by-Step Configurations/Configuration Library Dashboard.md",
     "05 - Step-by-Step Configurations/03 - Routing Protocols/14 - IPv4 - Internet Protocol Version 4 Static, Default, and Floating Static Routing - Step by Step.md",
     "Practical with Sample Code and Configs/Cisco Packet Tracer – Three-Router Static Routing Lab.md",
@@ -231,15 +239,7 @@
     "05 - Step-by-Step Configurations/09 - Internet Protocol Version 6 (IPv6)/42 - SLAAC - Stateless Address Autoconfiguration with DHCPv6 - Step by Step.md",
     "05 - Step-by-Step Configurations/07 - Monitoring and Management/33 - SNMPv2c - Simple Network Management Protocol Version 2c - Step by Step.md",
     "01 - Learn/05 - Network Services/Cisco NTP Configuration.md",
-    "05 - Step-by-Step Configurations/07 - Monitoring and Management/Monitoring and Management Configuration Guide.md",
-    "05 - Step-by-Step Configurations/07 - Monitoring and Management/36 - CDP and LLDP - Cisco and Link Layer Discovery Protocols - Step by Step.md",
-    "05 - Step-by-Step Configurations/07 - Monitoring and Management/34 - SNMPv3 - Simple Network Management Protocol Version 3 - Step by Step.md",
     "05 - Step-by-Step Configurations/07 - Monitoring and Management",
-    "05 - Step-by-Step Configurations/06 - High Availability/High Availability Configuration Guide.md",
-    "05 - Step-by-Step Configurations/06 - High Availability/32 - VRRP - Virtual Router Redundancy Protocol - Step by Step.md",
-    "05 - Step-by-Step Configurations/06 - High Availability",
-    "05 - Step-by-Step Configurations/10 - Integrated Enterprise Configuration",
-    "05 - Step-by-Step Configurations/08 - WAN, VPN, and Wireless",
-    "05 - Step-by-Step Configurations/09 - Internet Protocol Version 6 (IPv6)"
+    "05 - Step-by-Step Configurations/06 - High Availability"
   ]
 }
