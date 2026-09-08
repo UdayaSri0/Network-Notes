@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "f79c2f285aab24bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "615f9b1b03ea1382",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0cd002f13eeae8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "724c65051b2a2f29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - Step-by-Step Configurations/08 - WAN, VPN, and Wireless/39 - IPsec - Internet Protocol Security Site-to-Site VPN - Step by Step.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "39 - IPsec - Internet Protocol Security Site-to-Site VPN - Step by Step"
+            }
+          },
+          {
+            "id": "1ce203ac553d9c39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practical with Sample Code and Configs/Three-Router OSPF Lab/Cisco Packet Tracer – Three-Router OSPF Lab.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cisco Packet Tracer – Three-Router OSPF Lab"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe77717a7d1dc740",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca1a9e77e415e10c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c26bb01c86d4cd2b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6b5d21f5eb221ffb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "06d0c617d1d0b3d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9237965d16e126f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b34aade1e9568431",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e0e60b4dc9b6207",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "9a965290ffb5cbb2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "fc1a7a14b863dedd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c7b81f0880793431",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "62b62ed09dc899ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1ce203ac553d9c39",
+  "lastOpenFiles": [
+    "05 - Step-by-Step Configurations/08 - WAN, VPN, and Wireless/39 - IPsec - Internet Protocol Security Site-to-Site VPN - Step by Step.md",
+    "README.md",
+    "Practical with Sample Code and Configs/Three-Router OSPF Lab/Cisco Packet Tracer – Three-Router OSPF Lab.md",
+    "Practical with Sample Code and Configs/Three-Router OSPF Lab/Three-Router OSPF Topology.png",
+    "Practical with Sample Code and Configs/HSRP Gateway Redundancy Lab/HSRP Gateway Redundancy Lab - Configuration Guide.md",
+    "Practical with Sample Code and Configs/HSRP Gateway Redundancy Lab/HSRP Original Topology.png",
+    "Practical with Sample Code and Configs/Three-Router Static Routing Lab/Cisco Packet Tracer – Three-Router Static Routing Lab.md",
+    "Practical with Sample Code and Configs/Three-Router OSPF Lab/Three-Router OSPF Lab - Configuration Guide.md",
+    "Practical with Sample Code and Configs/Three-Router OSPF Lab/Three-Router OSPF Lab.pkt",
+    "Practical with Sample Code and Configs/Three-Router OSPF Lab/HSRP Gateway Redundancy Lab.pkt",
+    "Practical with Sample Code and Configs/Three-Router OSPF Lab/Screenshot 2026-09-08 101507.png",
+    "Practical with Sample Code and Configs/Three-Router OSPF Lab",
+    "01 - Learn/05 - Network Services/Network Services Guide.md",
+    "00 - Start Here/Student Dashboard.md",
+    "00 - Start Here/Networking Dashboard.md",
+    "05 - Step-by-Step Configurations/Configuration Library Dashboard.md",
+    "05 - Step-by-Step Configurations/03 - Routing Protocols/14 - IPv4 - Internet Protocol Version 4 Static, Default, and Floating Static Routing - Step by Step.md",
+    "Practical with Sample Code and Configs/Cisco Packet Tracer – Three-Router Static Routing Lab.md",
+    "Practical with Sample Code and Configs/Three-Router Static Routing Lab.pkt~",
+    "Practical with Sample Code and Configs/Three-Router Static Routing Lab.pkt",
+    "02 - Practice Labs/Lab 08 - Static Routing.md",
+    "05 - Step-by-Step Configurations/03 - Routing Protocols/Routing Protocols Configuration Guide.md",
+    "Untitled.canvas",
+    "Practical with Sample Code and Configs",
+    "05 - Step-by-Step Configurations/02 - Switching and Inter-VLAN Routing/10 - RSTP - Rapid Spanning Tree Protocol with PortFast and BPDU Guard - Step by Step.md",
+    "Images and Source/Screenshot 2026-08-18 110814.png",
+    "Images and Source",
+    "New folder",
+    "05 - Step-by-Step Configurations/02 - Switching and Inter-VLAN Routing/08 - Multilayer Switch Inter-VLAN Routing - Step by Step.md",
+    "05 - Step-by-Step Configurations/01 - Device Foundations/Device Foundations Configuration Guide.md",
+    "05 - Step-by-Step Configurations/04 - Network Services/22 - NTP - Network Time Protocol - Step by Step.md",
+    "03 - Teaching Toolkit/03 - Viva Questions/NTP Viva Questions.md",
+    "05 - Step-by-Step Configurations/07 - Monitoring and Management/35 - Syslog Central Logging - Step by Step.md",
+    "05 - Step-by-Step Configurations/06 - High Availability/32A - GLBP - Gateway Load Balancing Protocol - Step by Step.md",
+    "05 - Step-by-Step Configurations/05 - Security/30A - Telnet Legacy Remote Management - Step by Step.md",
+    "05 - Step-by-Step Configurations/10 - Integrated Enterprise Configuration/Integrated Enterprise Configuration Guide.md",
+    "05 - Step-by-Step Configurations/09 - Internet Protocol Version 6 (IPv6)/42 - SLAAC - Stateless Address Autoconfiguration with DHCPv6 - Step by Step.md",
+    "05 - Step-by-Step Configurations/07 - Monitoring and Management/33 - SNMPv2c - Simple Network Management Protocol Version 2c - Step by Step.md",
+    "01 - Learn/05 - Network Services/Cisco NTP Configuration.md",
+    "05 - Step-by-Step Configurations/07 - Monitoring and Management",
+    "05 - Step-by-Step Configurations/06 - High Availability"
+  ]
+}

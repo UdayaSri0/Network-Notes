@@ -11,9 +11,9 @@ The content is suitable for:
 
 ## Project highlights
 
-- More than 350 Markdown notes.
+- 379 Markdown notes in the learning vault.
 - 30 numbered practice labs.
-- More than 50 step-by-step Cisco configuration guides.
+- 46 numbered step-by-step Cisco configuration guides, plus 10 category guides.
 - Topic notes covering fundamentals, switching, routing, services, security, high availability, monitoring, WANs, VPNs, wireless, IPv6, and troubleshooting.
 - Teaching templates, cheat sheets, viva questions, lesson resources, and assessment materials.
 - Advanced enterprise projects and ready-to-open Cisco Packet Tracer practicals.
@@ -23,17 +23,17 @@ The content is suitable for:
 
 | Goal | Recommended page |
 |---|---|
-| Open the main vault dashboard | [Networking Dashboard](Networking/00%20-%20Start%20Here/Networking%20Dashboard.md) |
-| Follow the recommended study order | [Networking Learning Roadmap](Networking/00%20-%20Start%20Here/Networking%20Learning%20Roadmap.md) |
-| Begin as a student | [Student Dashboard](Networking/00%20-%20Start%20Here/Student%20Dashboard.md) |
-| Prepare material as a lecturer | [Lecturer Dashboard](Networking/00%20-%20Start%20Here/Lecturer%20Dashboard.md) |
-| Find a protocol or technology | [Network Protocol Master Index](Networking/00%20-%20Start%20Here/Network%20Protocol%20Master%20Index.md) |
-| Choose a practical exercise | [Lab Dashboard](Networking/02%20-%20Practice%20Labs/Lab%20Dashboard.md) |
-| Find copy-ready configurations | [Configuration Library Dashboard](Networking/05%20-%20Step-by-Step%20Configurations/Configuration%20Library%20Dashboard.md) |
-| Find classroom resources | [Teaching Toolkit Dashboard](Networking/03%20-%20Teaching%20Toolkit/Teaching%20Toolkit%20Dashboard.md) |
-| Explore integrated projects | [Advanced Projects Dashboard](Networking/04%20-%20Advanced%20Projects/Advanced%20Projects%20Dashboard.md) |
+| Open the main vault dashboard | [Networking Dashboard](00%20-%20Start%20Here/Networking%20Dashboard.md) |
+| Follow the recommended study order | [Networking Learning Roadmap](00%20-%20Start%20Here/Networking%20Learning%20Roadmap.md) |
+| Begin as a student | [Student Dashboard](00%20-%20Start%20Here/Student%20Dashboard.md) |
+| Prepare material as a lecturer | [Lecturer Dashboard](00%20-%20Start%20Here/Lecturer%20Dashboard.md) |
+| Find a protocol or technology | [Network Protocol Master Index](00%20-%20Start%20Here/Network%20Protocol%20Master%20Index.md) |
+| Choose a practical exercise | [Lab Dashboard](02%20-%20Practice%20Labs/Lab%20Dashboard.md) |
+| Find copy-ready configurations | [Configuration Library Dashboard](05%20-%20Step-by-Step%20Configurations/Configuration%20Library%20Dashboard.md) |
+| Find classroom resources | [Teaching Toolkit Dashboard](03%20-%20Teaching%20Toolkit/Teaching%20Toolkit%20Dashboard.md) |
+| Explore integrated projects | [Advanced Projects Dashboard](04%20-%20Advanced%20Projects/Advanced%20Projects%20Dashboard.md) |
 
-If you open the project in Obsidian, start with `Networking/00 - Start Here/Networking Dashboard.md`.
+If you open the project in Obsidian, start with `00 - Start Here/Networking Dashboard.md`.
 
 ## Learning path
 
@@ -52,22 +52,29 @@ The suggested progression is:
 
 ## Repository structure
 
+The repository root is also the Obsidian vault root. The learning folders are directly accessible on GitHub and after cloning or downloading the project.
+
 ```text
 Network-Notes/
-├── README.md
-└── Networking/
-    ├── .obsidian/                         Obsidian vault settings
-    ├── 00 - Start Here/                   Dashboards, indexes, and roadmaps
-    ├── 01 - Learn/                        Topic explanations and troubleshooting
-    ├── 02 - Practice Labs/                Labs 01 through 30
-    ├── 03 - Teaching Toolkit/             Templates, cheat sheets, viva, and lessons
-    ├── 04 - Advanced Projects/            Enterprise and platform-level projects
-    ├── 05 - Step-by-Step Configurations/  Copy-ready Cisco configuration guides
-    ├── Images and Source/                 Supporting images and source material
-    └── Practical with Sample Code and Configs/
-        ├── HSRP Gateway Redundancy Lab/
-        └── Three-Router Static Routing Lab/
+├── .obsidian/                         Obsidian vault settings
+├── .vault-tools/                      Historical maintenance scripts
+├── .gitattributes
+├── 00 - Start Here/                   Dashboards, indexes, and roadmaps
+├── 01 - Learn/                        Topic explanations and troubleshooting
+├── 02 - Practice Labs/                Labs 01 through 30
+├── 03 - Teaching Toolkit/             Templates, cheat sheets, viva, and lessons
+├── 04 - Advanced Projects/            Enterprise and platform-level projects
+├── 05 - Step-by-Step Configurations/  Copy-ready Cisco configuration guides
+├── Images and Source/                 Supporting images and source material
+├── Practical with Sample Code and Configs/
+│   ├── HSRP Gateway Redundancy Lab/
+│   ├── Three-Router OSPF Lab/
+│   └── Three-Router Static Routing Lab/
+├── New Text Document.txt              Existing empty placeholder
+└── README.md
 ```
+
+The scripts in `.vault-tools/` still reference the older `Newroking` layout and need their paths reviewed before use. They are not required to browse the notes or open the vault.
 
 ### Learning topics
 
@@ -106,14 +113,21 @@ The `05 - Step-by-Step Configurations` section contains guided Cisco configurati
 
 A three-router high-availability practical covering corrected Layer 2 cabling, HSRP virtual gateways, priorities, preemption, interface tracking, floating static routes, verification, and failover testing.
 
-- [Open the HSRP practical folder](Networking/Practical%20with%20Sample%20Code%20and%20Configs/HSRP%20Gateway%20Redundancy%20Lab/)
-- [Read the HSRP configuration guide](Networking/Practical%20with%20Sample%20Code%20and%20Configs/HSRP%20Gateway%20Redundancy%20Lab/HSRP%20Gateway%20Redundancy%20Lab%20-%20Configuration%20Guide.md)
+- [Open the HSRP practical folder](Practical%20with%20Sample%20Code%20and%20Configs/HSRP%20Gateway%20Redundancy%20Lab/)
+- [Read the HSRP configuration guide](Practical%20with%20Sample%20Code%20and%20Configs/HSRP%20Gateway%20Redundancy%20Lab/HSRP%20Gateway%20Redundancy%20Lab%20-%20Configuration%20Guide.md)
+
+### Three-Router OSPF Lab
+
+A three-router practical covering OSPF neighbor formation, route advertisement, passive interfaces, verification, and troubleshooting.
+
+- [Open the OSPF practical folder](Practical%20with%20Sample%20Code%20and%20Configs/Three-Router%20OSPF%20Lab/)
+- [Read the OSPF practical guide](Practical%20with%20Sample%20Code%20and%20Configs/Three-Router%20OSPF%20Lab/Cisco%20Packet%20Tracer%20%E2%80%93%20Three-Router%20OSPF%20Lab.md)
 
 ### Three-Router Static Routing Lab
 
 A three-LAN practical for configuring routed interfaces, `/30` transit networks, static routes, PC gateways, end-to-end tests, traceroute, and common routing troubleshooting.
 
-- [Open the static-routing practical folder](Networking/Practical%20with%20Sample%20Code%20and%20Configs/Three-Router%20Static%20Routing%20Lab/)
+- [Open the static-routing practical folder](Practical%20with%20Sample%20Code%20and%20Configs/Three-Router%20Static%20Routing%20Lab/)
 
 Packet Tracer `.pkt` files are binary files and cannot be previewed meaningfully on GitHub. Download or clone the repository and open them with Cisco Packet Tracer.
 
@@ -124,10 +138,12 @@ Obsidian is the recommended way to use the complete vault because the notes use 
 1. Clone the repository or download and extract its ZIP archive.
 2. Open Obsidian.
 3. Select **Open folder as vault**.
-4. Choose the `Network-Notes/Networking` folder, not the repository root.
+4. Choose the repository folder itself (`Network-Notes`, or `Network Notes` if that is your local folder name). It contains `.obsidian` and `00 - Start Here` directly.
 5. Open `00 - Start Here/Networking Dashboard.md`.
 
 The included `.obsidian` folder contains the vault configuration. Obsidian is recommended but not required; every learning note is still a normal Markdown file.
+
+If you previously opened the nested `Networking` folder as your vault, reopen the repository root after updating. The notes, attachments, and settings have moved together, so existing note links retain their targets.
 
 ## Cloning the repository
 
