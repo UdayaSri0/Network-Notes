@@ -172,7 +172,7 @@ hostname SW10
 vlan 10
  name LAN10
  exit
-interface fastEthernet0/1
+interface range fastEthernet0/1-10
  description PC0
  switchport mode access
  switchport access vlan 10
@@ -197,7 +197,7 @@ hostname SW20
 vlan 20
  name LAN20
  exit
-interface fastEthernet0/1
+interface range fastEthernet0/1-10
  description PC1
  switchport mode access
  switchport access vlan 20
@@ -222,7 +222,7 @@ hostname SW30
 vlan 30
  name LAN30
  exit
-interface fastEthernet0/1
+interface range fastEthernet0/1-10
  description PC2
  switchport mode access
  switchport access vlan 30
