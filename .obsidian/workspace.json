@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practical with Sample Code and Configs/Three-Router OSPF Lab/Cisco Packet Tracer – Three-Router OSPF Lab.md",
+                "file": "05 - Step-by-Step Configurations/01 - Device Foundations/05 - Cisco Switch Diagnostics, Troubleshooting, Recovery, and Configuration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cisco Packet Tracer – Three-Router OSPF Lab"
+              "title": "05 - Cisco Switch Diagnostics, Troubleshooting, Recovery, and Configuration"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practical with Sample Code and Configs/VLAN DHCP NTP Syslog Monitoring Lab/VLAN DHCP NTP Syslog Monitoring Lab.md",
+                "file": "05 - Step-by-Step Configurations/01 - Device Foundations/Device Foundations Configuration Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VLAN DHCP NTP Syslog Monitoring Lab"
+              "title": "Device Foundations Configuration Guide"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,19 +199,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "724c65051b2a2f29",
+  "active": "e0cd002f13eeae8e",
   "lastOpenFiles": [
+    "05 - Step-by-Step Configurations/01 - Device Foundations/Device Foundations Configuration Guide.md",
+    "Practical with Sample Code and Configs/Multilayer-Switch-Redundancy-DHCP-EtherChannel/Multilayer-Switch-Redundancy-DHCP-EtherChannel.md",
+    "05 - Step-by-Step Configurations/01 - Device Foundations/05 - Cisco Switch Diagnostics, Troubleshooting, Recovery, and Configuration.md",
     "Practical with Sample Code and Configs/Three-Router OSPF Lab/Cisco Packet Tracer – Three-Router OSPF Lab.md",
-    "Practical with Sample Code and Configs/Three-Router OSPF Lab/Three-Router OSPF Topology.png",
+    "05 - Step-by-Step Configurations/01 - Device Foundations/01 - Cisco Router Basic Configuration - Step by Step.md",
     "Practical with Sample Code and Configs/VLAN DHCP NTP Syslog Monitoring Lab/VLAN DHCP NTP Syslog Monitoring Lab.md",
+    "Practical with Sample Code and Configs/VLAN DHCP NTP Syslog Monitoring Lab/Images/network-topology.png",
+    "Practical with Sample Code and Configs/Three-Router OSPF Lab/Three-Router OSPF Topology.png",
     "Practical with Sample Code and Configs/VLAN DHCP NTP Syslog Monitoring Lab/DHCP NTP Syslog.pkt",
     "Practical with Sample Code and Configs/DHCP NTP Syslog.pkt~",
-    "Practical with Sample Code and Configs/VLAN DHCP NTP Syslog Monitoring Lab/Images/network-topology.png",
     "Practical with Sample Code and Configs/VLAN DHCP NTP Syslog Monitoring Lab/Images",
     "Practical with Sample Code and Configs/VLAN DHCP NTP Syslog Monitoring Lab",
     "Practical with Sample Code and Configs/DHCP NTP Syslog.pkt",
     "Practical with Sample Code and Configs/New folder",
-    "Practical with Sample Code and Configs/Multilayer-Switch-Redundancy-DHCP-EtherChannel/Multilayer-Switch-Redundancy-DHCP-EtherChannel.md",
     "Practical with Sample Code and Configs/Multilayer-Switch-Redundancy-DHCP-EtherChannel/README.md",
     "Untitled.canvas",
     "05 - Step-by-Step Configurations/08 - WAN, VPN, and Wireless/39 - IPsec - Internet Protocol Security Site-to-Site VPN - Step by Step.md",
@@ -222,8 +224,6 @@
     "Practical with Sample Code and Configs/HSRP Gateway Redundancy Lab/HSRP Gateway Redundancy Lab - Configuration Guide.md",
     "02 - Practice Labs/Lab 01 - Basic Router and Switch Configuration.md",
     "02 - Practice Labs/Lab Dashboard.md",
-    "05 - Step-by-Step Configurations/01 - Device Foundations/01 - Cisco Router Basic Configuration - Step by Step.md",
-    "05 - Step-by-Step Configurations/01 - Device Foundations/Device Foundations Configuration Guide.md",
     "05 - Step-by-Step Configurations/Configuration Library Dashboard.md",
     "README.md",
     "Practical with Sample Code and Configs/Three-Router Static Routing Lab/Cisco Packet Tracer – Three-Router Static Routing Lab.md",

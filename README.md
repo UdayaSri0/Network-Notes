@@ -19,7 +19,7 @@ Theory, guided configurations, practical labs, and classroom resources — conne
 
 </div>
 
-| **379** | **30** | **46** | **3** |
+| **379** | **30** | **47** | **3** |
 | :---: | :---: | :---: | :---: |
 | Learning notes | Numbered practice labs | Configuration walkthroughs | Packet Tracer practicals |
 
@@ -77,7 +77,7 @@ The repository folder is also the **Obsidian vault root**. All six numbered area
 | [**02 · Practice Labs**](02%20-%20Practice%20Labs/) | 30 numbered exercises for building, configuring, and testing networks. |
 | [**03 · Teaching Toolkit**](03%20-%20Teaching%20Toolkit/) | Lesson resources, templates, cheat sheets, viva questions, and assessments. |
 | [**04 · Advanced Projects**](04%20-%20Advanced%20Projects/) | Enterprise and platform-level projects; start with the [project dashboard](04%20-%20Advanced%20Projects/Advanced%20Projects%20Dashboard.md). |
-| [**05 · Step-by-Step Configurations**](05%20-%20Step-by-Step%20Configurations/) | 46 numbered Cisco walkthroughs and 10 category guides. |
+| [**05 · Step-by-Step Configurations**](05%20-%20Step-by-Step%20Configurations/) | 47 numbered Cisco walkthroughs and operational runbooks, plus 10 category guides. |
 
 Supporting material lives in [Images and Source](Images%20and%20Source/). Ready-to-open topologies and their guides live in [Practical with Sample Code and Configs](Practical%20with%20Sample%20Code%20and%20Configs/).
 

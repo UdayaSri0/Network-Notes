@@ -14,11 +14,12 @@ tags:
 
 # Device Foundations Configuration Guide
 
-Complete these notes in order. Each guide includes a topology, addressing plan, exact device configuration, verification, testing, and troubleshooting.
+Complete these notes in order. Each guide includes configuration, verification, testing, troubleshooting, or recovery appropriate to its purpose.
 
 1. [[01 - Cisco Router Basic Configuration - Step by Step]] — Configure a router hostname, secure local access, IPv4 interfaces, Secure Shell (SSH), and saved startup configuration.
 2. [[02 - Cisco Switch Basic Configuration - Step by Step]] — Configure a Layer 2 switch hostname, management switched virtual interface (SVI), default gateway, console security, and SSH access.
 3. [[03 - Cisco Multilayer Switch Basic Configuration - Step by Step]] — Enable Layer 3 routing on a multilayer switch and configure both switched virtual interfaces and a routed uplink.
 4. [[04 - TFTP - Trivial File Transfer Protocol Backup and Restore - Step by Step]] — Back up a router running configuration to a Packet Tracer TFTP server and restore it safely.
+5. [[05 - Cisco Switch Diagnostics, Troubleshooting, Recovery, and Configuration]] — Preserve evidence, isolate switch faults, recover access or configuration safely, apply a reusable baseline, and prove service restoration.
 
 Return to [[Configuration Library Dashboard]].

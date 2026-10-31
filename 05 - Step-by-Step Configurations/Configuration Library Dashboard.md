@@ -28,7 +28,7 @@ Protocol notes use the short name and full name together, such as **OSPF — Ope
 
 ## 01 — Device Foundations
 
-Open [[Device Foundations Configuration Guide]] for 4 complete walkthroughs.
+Open [[Device Foundations Configuration Guide]] for 5 complete walkthroughs and operational runbooks.
 ## 02 — Switching and Inter-VLAN Routing
 
 Open [[Switching and Inter-VLAN Routing Configuration Guide]] for 9 complete walkthroughs.

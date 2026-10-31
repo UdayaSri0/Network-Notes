@@ -25,6 +25,7 @@ updated: "2026-08-11"
 - [[Cisco Troubleshooting Method]]
 - [[OSI Troubleshooting]]
 - [[Cisco Troubleshooting Commands]]
+- [[05 - Cisco Switch Diagnostics, Troubleshooting, Recovery, and Configuration]]
 - [[PC Cannot Get DHCP Address]]
 - [[PC Cannot Ping Gateway]]
 - [[VLAN Communication Failure]]
